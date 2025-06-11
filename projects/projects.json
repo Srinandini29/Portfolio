@@ -5,7 +5,6 @@
     "image": "she",
     "category": "web",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/Srinandini29/SheSecure"
     }
   },
@@ -15,7 +14,6 @@
     "image": "gym",
     "category": "web",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/Srinandini29/GymEase-Your-Personal-Fitness-Companion"
     }
   },
@@ -25,7 +23,6 @@
     "image": "med",
     "category": "web",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
       "code": "https://github.com/Lokesh-reddy18/MedSync-client"
     }
   },
@@ -35,7 +32,6 @@
     "image": "dog",
     "category": "deep",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/Srinandini29/Dog-breed-Multi-Classifier"
     }
   },
@@ -45,7 +41,6 @@
     "image": "ecelll",
     "category": "web",
     "links": {
-      "view": "https://jazzy-genie-b95a67.netlify.app/",
       "code": "https://github.com/Srinandini29/Project"
     }
   },
@@ -55,7 +50,6 @@
     "image": "traffic",
     "category": "deep",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
       "code": "https://github.com/Srinandini29/Traffic-Flow-Prediction"
     }
   }
