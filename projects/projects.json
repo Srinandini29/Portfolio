@@ -1,0 +1,62 @@
+[
+  {
+    "name": "SheSecure-Safety Meets Technology",
+    "desc": "Developed SheSecure, a responsive women’s safety web app focused on real-time features.",
+    "image": "she",
+    "category": "web",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/Srinandini29/SheSecure"
+    }
+  },
+  {
+    "name": "GymEase- Your Personal Fitness Companion",
+    "desc": "Developed a responsive Gym Management website with dark/light themes, optimized forboth mobile and desktop.",
+    "image": "gym",
+    "category": "web",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/Srinandini29/GymEase-Your-Personal-Fitness-Companion"
+    }
+  },
+    {
+    "name": "MedSync",
+    "desc": "A modern healthcare platform that connects patients with doctors, enabling seamless appointment booking and management.",
+    "image": "med",
+    "category": "web",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/Lokesh-reddy18/MedSync-client"
+    }
+  },
+  {
+    "name": "BreedScope – Tech Meets Tails",
+    "desc": "Designed and developed a Multiclassification model to identify various dog breeds",
+    "image": "dog",
+    "category": "deep",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/Srinandini29/Dog-breed-Multi-Classifier"
+    }
+  },
+  {
+    "name": "E-Cell Website",
+    "desc": "Designed and developed a responsive web application of E-cell.",
+    "image": "ecelll",
+    "category": "web",
+    "links": {
+      "view": "https://jazzy-genie-b95a67.netlify.app/",
+      "code": "https://github.com/Srinandini29/Project"
+    }
+  },
+  {
+    "name": "Traffic Flow Prediction System ",
+    "desc": "Developed and managed a SARIMAX -based traffic flow prediction model",
+    "image": "traffic",
+    "category": "deep",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/Srinandini29/Traffic-Flow-Prediction"
+    }
+  }
+]
